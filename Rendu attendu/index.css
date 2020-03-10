@@ -1,0 +1,110 @@
+#conteneur{
+	display: felx;
+	flex-direction: column;
+	align-items:stretch;
+}
+
+.header{
+	color: #383838;
+	text-align: right;
+	font-family: "helvetica";
+	font-size: 14px;
+	background-color:white;
+	height: 150px;
+	
+
+}
+
+.word_space{
+	word-spacing: 20px;
+}
+
+
+.centre{
+	text-align: center;
+	background-color: white;
+	height: 500px;
+	vertical-align: middle;
+}
+.footer{
+	background-color: yellow;
+	font-style: 'helvetica';
+}
+
+.footerbis{
+	background-color: yellow;
+	font-style: 'helvetica';
+	text-align: right;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+    border-radius:8px;
+}
+.right{
+    float:right;
+    word-spacing: 20px;
+}
+
+.left{
+    float:left;
+    word-spacing: 20px;
+}
+img{
+	vertical-align: middle;
+}
+footer  {
+  background: #E9E9E9;
+  border-top: solid 2px #e4e4e4;
+/*   position: fixed; */
+  bottom: 0;
+  padding-bottom: 0;
+  width: 100%;
+  font-family: "helvetica"
+  
+}
+
+footer ul li {
+  display: inline;
+  color: #E9E9E9;
+  font-size: 14px;
+  padding: 13px;
+}
+
+footer ul {
+  float: left;
+  padding: 1px;
+}
+
+footer ul a:hover {
+  text-decoration: underline;
+}
+
+.france{
+	  display: inline;
+
+}
+
+.footer-right {
+  float: right;
+}
+
+.france{
+	font-family: "helvetica";
+	background-color: red;
+}
+
+.couleur {
+	background-color: red;
+}
+
+
+.raf{
+	background-color: red;
+}
